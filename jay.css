@@ -1,10 +1,10 @@
 body{
-    background-color:  rgb(18, 17, 17);
+    background-color:  rgb(238, 99, 178);
     
 }
 .container{ 
     width: 46%;
-    background-color: white;
+    background-color: rgb(208, 235, 98);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -14,11 +14,11 @@ body{
 }
 
 @font-face {
-    font-family: gasalt-black;
+    font-family: gasalt-regular;
     src: url(fonts/Gasalt-Regular.ttf);
 }
 .name{  
-    font-family: gasalt-black;
+    font-family: gasalt-regular;
     font-size: 36px;
     text-transform: uppercase;
     font-weight: bold;    
